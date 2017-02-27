@@ -13,7 +13,7 @@ public class rec {
         } else if(a==0){
             System.out.println("Your GCD is: " + b);
         }
-        if(b==1){
+        else if(b==1){
             System.out.println("No GCD");
 
         }
